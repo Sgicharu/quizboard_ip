@@ -23,7 +23,7 @@ This project was created using:
 - jQuery.
 
 ### Live link
-https://sgicharu.github.io/week3-ip
+https://github.com/Sgicharu/week3-ip.git
 
 ### Copyright and license information
 c) 2022 Sgicharu
