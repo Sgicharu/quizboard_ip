@@ -1,5 +1,5 @@
 ### Project Name
-Systeme Quiz Board
+Quiz Board
 
 ### Author name
 Susan Gicharu
@@ -23,7 +23,7 @@ This project was created using:
 - jQuery.
 
 ### Live link
-https://github.com/Sgicharu/week3-ip.git
+https://sgicharu.github.io/week3-ip/
 
 ### Copyright and license information
 c) 2022 Sgicharu
